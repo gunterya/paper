@@ -1,5 +1,5 @@
 # paper
-* Data: [WikiArt](https://www.wikiart.org)
+* Data: [WikiArt](https://www.wikiart.org) </br>
   [now dataset](https://drive.google.com/drive/folders/0B7YClE2-vjgPcGY2MHV2VWt5cjQ?usp=sharing)
 
 
@@ -8,8 +8,9 @@ https://drive.google.com/file/d/0B7YClE2-vjgPbGE3LUd5SUQ3Ukk/view?usp=sharing
 * Gram Martix
 * Self-Organizing maps(SOM)
 
-[style classification and visualization of art painting's genre using self-organizing maps](https://drive.google.com/file/d/0B7YClE2-vjgPSWVIUmh4YUpEWjg/view?usp=sharing)
-[image style transfer using convolutional neural networks](https://drive.google.com/file/d/0B7YClE2-vjgPbWNManZRSnlRUzQ/view)
+Reference: 
+1. [style classification and visualization of art painting's genre using self-organizing maps](https://drive.google.com/file/d/0B7YClE2-vjgPSWVIUmh4YUpEWjg/view?usp=sharing)
+2. [image style transfer using convolutional neural networks](https://drive.google.com/file/d/0B7YClE2-vjgPbWNManZRSnlRUzQ/view)
 
 
 ## 2017-10-13
