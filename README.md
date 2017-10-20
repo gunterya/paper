@@ -11,8 +11,24 @@ https://drive.google.com/file/d/0B7YClE2-vjgPbGE3LUd5SUQ3Ukk/view?usp=sharing
 Reference: 
 1. [style classification and visualization of art painting's genre using self-organizing maps](https://drive.google.com/file/d/0B7YClE2-vjgPSWVIUmh4YUpEWjg/view?usp=sharing)
 2. [image style transfer using convolutional neural networks](https://drive.google.com/file/d/0B7YClE2-vjgPbWNManZRSnlRUzQ/view)
+3. [SOM introduce](http://ccy.dd.ncu.edu.tw/~chen/course/Neural/ch3/SOM.pdf)
+4. [SOM code](https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/)
 
 
 ## 2017-10-13
 * Visualizing CNN
-* How to combine Gram and SOM ? 
+* How to combine Gram and SOM ? use 'PCA' to 2048 or 4096
+
+Reference: 
+1. [style transfer with Keras](https://github.com/fchollet/keras/blob/master/examples/neural_style_transfer.py)
+2. [conv filter visualization with Keras](https://github.com/fchollet/keras/blob/master/examples/conv_filter_visualization.py)
+3. [conv class activation maps with Keras](https://jacobgil.github.io/deeplearning/class-activation-maps)
+
+
+## 2017-10-20
+https://drive.google.com/file/d/0B7YClE2-vjgPUEd1VmF0Wk1oSm8/view?usp=sharing
+* Improve 'feature(Gram)'
+* Implementation
+
+Reference:
+1. [Deep Correlation Features for Image Style Classification](https://www.cs.ccu.edu.tw/~wtchu/papers/2016MM-chu.pdf)
