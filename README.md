@@ -32,3 +32,8 @@ https://drive.google.com/file/d/0B7YClE2-vjgPUEd1VmF0Wk1oSm8/view?usp=sharing
 
 Reference:
 1. [Deep Correlation Features for Image Style Classification](https://www.cs.ccu.edu.tw/~wtchu/papers/2016MM-chu.pdf)
+
+
+## 2017-10-28
+https://drive.google.com/file/d/0B7YClE2-vjgPU0ctbXFNc1N2Z0k/view?usp=sharing
+* Implementation
