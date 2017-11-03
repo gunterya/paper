@@ -37,3 +37,16 @@ Reference:
 ## 2017-10-28
 https://drive.google.com/file/d/0B7YClE2-vjgPU0ctbXFNc1N2Z0k/view?usp=sharing
 * Implementation
+
+
+## 2017-11-03
+[paper](https://drive.google.com/file/d/0B7YClE2-vjgPSWVIUmh4YUpEWjg/view?usp=sharing): https://drive.google.com/file/d/0B7YClE2-vjgPR3VYOUFmRnRkOWM/view?usp=sharing
+https://drive.google.com/file/d/0B7YClE2-vjgPOTlJYW1QRHZpeTA/view?usp=sharing
+* (keras) images->VGG16->Gram->PCA->SOM
+
+
+## 2017-11-10
+* Goal
+* VGG + PCA/Autoencoder
+* VGG + PCA/Autoencoder + SOM
+* VGG->Gram + PCA/Autoencoder
